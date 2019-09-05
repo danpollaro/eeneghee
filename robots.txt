@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cuuhodohv.datascienchris.com/sitemap.xml
